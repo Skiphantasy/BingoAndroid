@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Skipha\'s Bingo</string>
+    <string name="play">JUGAR</string>
+    <string name="numberscount">10</string>
+    <string name="players">5</string>
+    <string name="right">Aciertos: </string>
+    <string name="total">Número de Bolas: </string>
+    <string name="line">LÍNEA!</string>
+    <string name="bingo">BINGO!</string>
+    <string name="names">JUGADOR</string>
+    <string name="ball">SACAR BOLA</string>
+</resources>
